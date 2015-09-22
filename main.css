@@ -1,3 +1,28 @@
-.container {
-	width: 60%;
+a {
+  text-decoration: none;
+}
+header { 
+background-color: navy;
+color: gold;
+font-size: xx-large;
+}
+h1 {
+  text-align: center;
+  color: red;
+  text-transform: uppercase;
+}
+p {
+  font-family: sans-serif;
+  line-height: 1.5;
+  word-spacing: .25em;
+}
+li {
+  list-style: square inside;
+  font-family: sans-serif;
+}
+footer {
+  background-color: navy;
+  color: white;
+  font-family: verdana;
+  font-size: small;
 }
