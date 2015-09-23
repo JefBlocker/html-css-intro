@@ -14,9 +14,6 @@ font-size: xx-large;
 padding-left: 0px;
 padding-top: 0px;
 }
-audio { 
-   display:none;
-}
 h1 {
   text-align: center;
   color: red;
@@ -38,4 +35,7 @@ footer {
   color: white;
   font-family: verdana;
   font-size: small;
+}
+audio { 
+   display:none;
 }
